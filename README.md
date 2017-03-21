@@ -1,6 +1,6 @@
-#NetworkSim
+# NetworkSim
 
-##synopsis
+## Synopsis
 
 This is a client/server interaction written in python. Implementing both datagram (UDP) and stream (TCP) sockets. Each type of socket has a client and a corressponding server.
 
